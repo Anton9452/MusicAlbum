@@ -1,0 +1,12 @@
+.Card{
+    display: flex;
+    color: aliceblue;
+    margin: 30px 0 0 50px;
+}
+.Nomber{
+    margin: 0 25px 0 0;
+}
+.time{
+   position: absolute;
+   right: 50px;
+}

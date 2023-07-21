@@ -1,0 +1,28 @@
+.imgAva{
+    width: 400px;
+    height: 400px;
+}
+
+.pages{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.text-description{
+    color: aliceblue;
+    font-size: 20px;
+
+
+}
+
+.osnova{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px ;
+
+}
+
+.text-p{
+    margin-top: 45px;
+}
